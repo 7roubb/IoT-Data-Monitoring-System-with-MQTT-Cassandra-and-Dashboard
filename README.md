@@ -1,4 +1,5 @@
 # **IoT Data Monitoring System**
+![image](https://github.com/user-attachments/assets/7b6435ad-d2a3-46c1-bc76-7eba5189b0c7)
 
 ## **Overview**
 The IoT Data Monitoring System is designed for collecting, storing, and visualizing sensor data from ESP32 devices in real time. It leverages MQTT for communication, Cassandra for storage, and a user-friendly dashboard for data visualization. The system is scalable, allowing dynamic addition of devices, and is ideal for monitoring environmental conditions like temperature and humidity.
